@@ -1,0 +1,12 @@
+{
+  "name": "pdf-to-json",
+  "version": "1.0.0",
+  "description": "Convertidor de PDF a JSON para artículos legales",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}

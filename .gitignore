@@ -1,0 +1,37 @@
+# Dependencias
+node_modules/
+package-lock.json
+yarn.lock
+
+# Archivos generados por la aplicación
+articulos.json
+texto_extraido.txt
+
+# Archivos PDF (opcional, descomenta si no quieres incluir PDFs en el repositorio)
+# *.pdf
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Directorios de caché
+.npm
+.cache 
